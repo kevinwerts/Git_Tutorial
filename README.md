@@ -1,2 +1,3 @@
-# Git_Tutorial
-Git Tutorials 
+# Simple Example Repository
+
+Example Repository 
